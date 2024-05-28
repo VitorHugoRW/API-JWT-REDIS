@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API JWT", "API JWT\API JWT.csproj", "{A470953D-853C-44CD-B535-00991165F8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A470953D-853C-44CD-B535-00991165F8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A470953D-853C-44CD-B535-00991165F8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A470953D-853C-44CD-B535-00991165F8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A470953D-853C-44CD-B535-00991165F8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0DCE4B-D757-497E-81C5-C5C9C63615F5}
+	EndGlobalSection
+EndGlobal
